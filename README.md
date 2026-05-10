@@ -24,28 +24,6 @@ Prática : Estou fazendo meu cartão de visita em HTML(127.0.0.15500/cartão de 
 - A função da TAG no HTML é estruturar e definir o significado de parte do conteúdo em uma página web.
 - Vi também os Atributos em HTML. Que são uma propriedade adicionada a uma TAG para fornecer informações adicionais. Width( largura), height (altura).
 - Aprendi como é uma estrutura básica em HTML.
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Título da Página</title>
-</head>
-<body>
-    <header>
-        <h1>Meu Site</h1>
-    </header>
-    
-    <main>
-        <p>Aqui vai o conteúdo principal da página.</p>
-    </main>
-    
-    <footer>
-        <p>&copy; 2026 - Todos os direitos reservados</p>
-    </footer>
-</body>
-</html>
-
 
 
 
