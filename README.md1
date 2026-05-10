@@ -1,0 +1,34 @@
+# Meu Diário Dev 🚀
+
+Meu portfólio de evolução em Front-End. Saindo do zero pra vaga em Portugal em 6 meses.
+
+## Projetos
+
+### 1. Cartão de Visita Digital
+Meu primeiro projeto com HTML + CSS.
+- Foto redonda com borda
+- Cards com box-shadow
+- Botão estilizado
+
+**Tecnologias**: HTML5, CSS3
+**Link**: [ver online](./cartaodevisita.html)
+
+### 2. Clone do Google
+Recriando a interface do Google pra treinar CSS.
+- Centralização com Flexbox
+- Barra de busca com border-radius
+- Botões com hover
+
+**Tecnologias**: HTML5, CSS3, Flexbox
+**Link**: [Ver online](./google.html)
+
+## Stack
+HTML | CSS | Git | GitHub
+
+## Roadmap
+- [x] Semana 1-2: HTML + CSS Básico
+- [ ] Semana 3-4: Flexbox e Responsivo
+- [ ] Semana 5-8: JavaScript
+- [ ] Semana 9-12: React
+
+Me acompanha nessa jornada! 🇵🇹
