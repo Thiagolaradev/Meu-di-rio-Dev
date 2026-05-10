@@ -1,0 +1,40 @@
+body {
+    background-color: #f0f4f8; /* Fundo cinza claro, cor de site chique*/
+    font-family: arial, sans-serif; /*Letra mais moderna*/
+    text-align : center ; /*Letra mais moderna*/
+    padding-top: 50px; /* Empurra tudo um pouco para baixo */
+}
+
+h1 {
+    color: #1E3A8A; /*Azul escuro igual  banco */
+    font-size: 45px; /*Letra grande*/
+}
+
+img {
+    border-radius: 50%; /*TRANSFORMA SUA FOTO EM CIRCULO*/
+    width: 150px; /* Tamanho fixo*/
+    border: 4px solid #1E3A8A; /* Borda azul */
+}
+
+ul {
+    list-style: none; /* Tira as bolinhas da lista*/
+    padding: 0;
+}
+
+li {
+    background-color: white; /* Fundo branco em cada item*/
+    margin: 10px auto; /* Espaço entre os itens*/
+    padding: 12px;
+    width: 280px;/* Largura dos cards*/
+    border-radius: 8px; /* Cantos arrendodados */
+    box-shadow: 0 2px 5px rgba(0,0,0,0,1); /* Sombra = 3D */
+}
+ a {
+    background-color: #1E3A8A; /*Botão azul*/
+    color: white; /* letra branca*/
+    padding: 12px 25px;
+    text-decoration: none; /* Tira o sublinhado*/
+    border-radius: 8px;
+    display: inline-block; /* faz virar botão */
+    margin-top:  20px;
+ }
