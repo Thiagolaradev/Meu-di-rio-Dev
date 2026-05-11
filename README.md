@@ -25,6 +25,16 @@ Prática : Estou fazendo meu cartão de visita em HTML(127.0.0.15500/cartão de 
 - Vi também os Atributos em HTML. Que são uma propriedade adicionada a uma TAG para fornecer informações adicionais. Width( largura), height (altura).
 - Aprendi como é uma estrutura básica em HTML.
 
+-✅10/05/2026
+🚀 Primeiro deploy realizado! 
+
+Depois de 2 semanas estudando HTML, CSS e Git, meu cartão de visita digital está no ar: 
+Aprendizados do projeto:
+✅ HTML semântico 
+✅ CSS com Flexbox
+✅ Versionamento com Git/GitHub
+✅ Deploy com GitHub Pages
+✅ Debug de 404 e case sensitive
 
 
 
