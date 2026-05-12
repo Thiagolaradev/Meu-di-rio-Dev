@@ -36,5 +36,9 @@ Aprendizados do projeto:
 ✅ Deploy com GitHub Pages
 ✅ Debug de 404 e case sensitive
 
-
+✅-11/05/2026: Hoje no curso aprendi a identar o código para melhorar a organização e a legibilidade, para facilitar a manutenção do código.
+- Aprendi também algumas Tags mais básicas.
+- Tags heading: <h1>, <h2>,<h3>,<h4>,<h5>,<h6>.
+-Tag de parágrafo: <p>
+-Tag de link: <a href>
 
