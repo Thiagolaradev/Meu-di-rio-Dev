@@ -42,3 +42,11 @@ Aprendizados do projeto:
 -Tag de parágrafo: <p>
 -Tag de link: <a href>
 
+✅-12/05/2026 
+Hoje no curso aprendi formatação de texto em Css,
+*Tamanho de fonte
+*Justificar 
+*Centralizar 
+*Trocar as cores das letras
+*Troca de fonte.
+ Prática: Comecei o projeto "Clone do Google".
