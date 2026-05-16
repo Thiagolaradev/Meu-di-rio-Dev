@@ -51,7 +51,7 @@ Hoje no curso aprendi formatação de texto em Css,
 *Troca de fonte.
  Prática: Comecei o projeto "Clone do Google".
  
-✅-15/05/2026🚀
+✅-13/05/2026🚀
 
 ### O que fiz hoje:
 
@@ -78,6 +78,11 @@ Hoje no curso aprendi formatação de texto em Css,
 
 **Status do projeto**: Header finalizado. Próximo passo: Main com logo e barra de pesquisa.
 
+✅15/05/2026🚀
+Hoje no curso aprendi sobre: 
+*Css inline.
+*Css interno.
+*Css externo.
 
 
 
